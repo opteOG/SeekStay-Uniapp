@@ -1,0 +1,1 @@
+<scroll-view class="list-wrap data-v-ef17f403" scroll-y="true" bindscroll="{{c}}" style="{{'height:' + d}}"><view class="virtual-list data-v-ef17f403" style="{{'height:' + b}}"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="virtual-list-item data-v-ef17f403" style="{{'top:' + item.c}}"><slot name="{{item.a}}"></slot></view></view></scroll-view>

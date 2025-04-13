@@ -1,0 +1,27 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.login-bar.data-v-b718164b {
+  display: flex;
+  justify-content: space-evenly;
+}
+.login-bar .login-other.data-v-b718164b {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login-bar .login-other .login-item.data-v-b718164b {
+  height: 100rpx;
+  width: 100rpx;
+}
+.login-bar .login-other .text.data-v-b718164b {
+  color: #515151;
+}

@@ -1,0 +1,45 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.ScoreBar.data-v-95796f8f {
+  display: flex;
+  justify-content: space-between;
+  padding: 40rpx 20rpx;
+  border: 1rpx solid rgba(0, 0, 0, 0.3);
+  border-radius: 50rpx;
+}
+.ScoreBar .divide.data-v-95796f8f {
+  box-sizing: border-box;
+  width: 1rpx;
+  border: 1rpx solid rgba(0, 0, 0, 0.1);
+}
+.ScoreBar .score.data-v-95796f8f {
+  text-align: center;
+  font-size: 48rpx;
+  font-weight: 600;
+}
+.ScoreBar .reconmannd.data-v-95796f8f {
+  display: flex;
+  align-items: center;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.ScoreBar .comment.data-v-95796f8f {
+  padding-right: 30rpx;
+}
+.ScoreBar .comment .number.data-v-95796f8f {
+  font-size: 40rpx;
+  font-weight: 600;
+}
+.ScoreBar .comment .text.data-v-95796f8f {
+  font-size: 20rpx;
+  border-bottom: 1rpx solid;
+}

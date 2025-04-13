@@ -1,0 +1,28 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.content.data-v-a01c5351 {
+  margin-top: 100rpx;
+  padding: 40rpx;
+  border-bottom: 1px solid rgba(1, 1, 1, 0.2);
+  display: flex;
+  align-items: center;
+}
+.content .text.data-v-a01c5351 {
+  margin-right: 20rpx;
+  font-weight: 500;
+}
+.btn.data-v-a01c5351 {
+  height: 80rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

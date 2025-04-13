@@ -1,0 +1,1 @@
+<view class="crop-image"><uni-nav-bar wx:if="{{b}}" bindclickLeft="{{a}}" u-i="0eafcea7-0" bind:__l="__l" u-p="{{b}}"/><qf-image-cropper wx:if="{{d}}" bindcrop="{{c}}" u-i="0eafcea7-1" bind:__l="__l" u-p="{{d}}"></qf-image-cropper></view>

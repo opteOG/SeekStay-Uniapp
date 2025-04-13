@@ -1,0 +1,37 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.searchBar.data-v-6602f27d {
+  height: 80rpx;
+  margin: 10px 40px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-radius: 30px;
+  padding: 10px 10px;
+  background-color: #E5E7EB;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1), 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+.searchBar .search.data-v-6602f27d {
+  height: 40rpx;
+  color: #c5b6a0;
+  margin: 0 10px;
+  background-color: #E5E7EB;
+}
+.searchBar .placeHolder.data-v-6602f27d {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 40%;
+  font-size: 13px;
+  text-align: center;
+}

@@ -1,0 +1,74 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+/* 全局通用设置 */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 32rpx;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 元素设置为 block */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+/* 列表样式清除 */
+ol, ul {
+  list-style: none;
+}
+/* 表格样式清除 */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* 链接样式清除 */
+a {
+  text-decoration: none;
+  color: inherit;
+  outline: none;
+}
+/* 表单元素基础样式 */
+input, textarea, button, select {
+  font: inherit;
+  outline: none;
+  border: none;
+  background: none;
+}
+/* 图片样式 */
+img {
+  max-width: 100%;
+  display: block;
+  vertical-align: middle;
+}
+/* 防止文字溢出 */
+textarea {
+  resize: none;
+}
+button {
+  cursor: pointer;
+  -webkit-appearance: none;
+          appearance: none;
+}page{--status-bar-height:25px;--top-window-height:0px;--window-top:0px;--window-bottom:0px;--window-left:0px;--window-right:0px;--window-magin:0px}[data-c-h="true"]{display: none !important;}

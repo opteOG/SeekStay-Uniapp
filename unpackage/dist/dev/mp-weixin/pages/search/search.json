@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-nav-bar": "../../uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "search-bar": "../../components/SearchBar/SearchBar",
+    "uni-transition": "../../uni_modules/uni-transition/components/uni-transition/uni-transition",
+    "tag-bar": "../../components/TagBar/TagBar",
+    "room-resource": "../../components/RoomResource/RoomResource",
+    "virtual-list": "../../components/VirtualList/VirtualList"
+  }
+}

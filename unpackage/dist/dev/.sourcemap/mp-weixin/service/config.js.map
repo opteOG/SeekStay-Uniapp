@@ -1,0 +1,1 @@
+{"version":3,"file":"config.js","sources":["service/config.js"],"sourcesContent":["const BASE_URL = \"http://47.108.24.123:3004\"\r\nconst TIME_OUT = 3000\r\n\r\nexport { BASE_URL, TIME_OUT }"],"names":[],"mappings":";AAAK,MAAC,WAAW;AACZ,MAAC,WAAW;;;"}

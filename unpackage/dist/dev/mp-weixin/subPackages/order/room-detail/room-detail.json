@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "uni-nav-bar": "../../../uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "score-bar": "../../../components/ScoreBar/ScoreBar",
+    "date-picker": "../../../components/DatePicker/DatePicker"
+  }
+}

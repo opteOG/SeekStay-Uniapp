@@ -1,0 +1,1 @@
+import{G as t}from"./index-CXRbaKsi.js";const s=t("order",{state:()=>({startTime:null,endTime:null,totalDays:0,roomData:{},orderMessage:{}}),actions:{setTime(t,s,e){this.startTime=t,this.endTime=s,this.totalDays=e},reset(){this.startTime=null,this.endTime=null,this.totalDays=null}}});export{s as u};

@@ -1,0 +1,118 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.apply-order .bar.data-v-5c21dacc {
+  padding: 40rpx;
+}
+.apply-order .header .part1.data-v-5c21dacc {
+  display: flex;
+  height: 150rpx;
+  padding-bottom: 40rpx;
+  border-bottom: 1rpx solid rgba(0, 0, 0, 0.1);
+}
+.apply-order .header .part1 .img.data-v-5c21dacc {
+  height: 150rpx;
+  width: 150rpx;
+  border-radius: 20rpx;
+  margin-right: 40rpx;
+}
+.apply-order .header .part1 .text .part1-title.data-v-5c21dacc {
+  font-size: 36rpx;
+  font-weight: 600;
+}
+.apply-order .header .part1 .text .desc.data-v-5c21dacc {
+  margin: 10rpx 0;
+  font-size: 12rpx;
+}
+.apply-order .header .part1 .text .score.data-v-5c21dacc {
+  margin-top: 10rpx;
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+}
+.apply-order .header .part2.data-v-5c21dacc {
+  display: flex;
+  padding: 40rpx 0;
+}
+.apply-order .header .part2 .text.data-v-5c21dacc {
+  font-size: 32rpx;
+  flex: 1;
+  margin-right: 40rpx;
+}
+.apply-order .header .part2 image.data-v-5c21dacc {
+  height: 100rpx;
+  width: 100rpx;
+}
+.apply-order .trip-message.data-v-5c21dacc {
+  border-top: 15rpx solid rgba(0, 0, 0, 0.1);
+  border-bottom: 15rpx solid rgba(0, 0, 0, 0.1);
+}
+.apply-order .trip-message .title.data-v-5c21dacc {
+  font-size: 48rpx;
+  font-weight: 600;
+}
+.apply-order .trip-message .date .part.data-v-5c21dacc {
+  margin-top: 40rpx;
+}
+.apply-order .trip-message .date .part .tag.data-v-5c21dacc {
+  margin-bottom: 10rpx;
+  font-size: 36rpx;
+}
+.apply-order .price-detail.data-v-5c21dacc {
+  border-bottom: 15rpx solid rgba(0, 0, 0, 0.1);
+}
+.apply-order .price-detail .title.data-v-5c21dacc {
+  font-size: 48rpx;
+  font-weight: 600;
+}
+.apply-order .price-detail .item.data-v-5c21dacc {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20rpx;
+}
+.apply-order .price-detail .item .key.data-v-5c21dacc {
+  font-weight: 400;
+}
+.apply-order .price-detail .item .value.data-v-5c21dacc {
+  font-weight: 500;
+}
+.apply-order .price-detail .end.data-v-5c21dacc {
+  padding: 20rpx 0;
+  border-top: 1rpx solid rgba(0, 0, 0, 0.1);
+}
+.apply-order .base-rule.data-v-5c21dacc {
+  border-bottom: 15rpx solid rgba(0, 0, 0, 0.1);
+}
+.apply-order .base-rule .title.data-v-5c21dacc {
+  font-size: 48rpx;
+  font-weight: 600;
+}
+.apply-order .base-rule .desc.data-v-5c21dacc {
+  margin-top: 20rpx;
+}
+.apply-order .base-rule .list.data-v-5c21dacc {
+  margin-top: 20rpx;
+}
+.apply-order .base-rule .list .item.data-v-5c21dacc {
+  margin-top: 10rpx;
+}
+.apply-order .confirm-order .remind.data-v-5c21dacc {
+  font-size: 12rpx;
+}
+.apply-order .confirm-order .order-btn.data-v-5c21dacc {
+  margin-top: 40rpx;
+  background-color: #da0b64;
+  color: white;
+  height: 80rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "disableScroll": true,
+  "usingComponents": {
+    "uni-nav-bar": "../../../uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "qf-image-cropper": "../../../uni_modules/qf-image-cropper/components/qf-image-cropper/qf-image-cropper"
+  }
+}

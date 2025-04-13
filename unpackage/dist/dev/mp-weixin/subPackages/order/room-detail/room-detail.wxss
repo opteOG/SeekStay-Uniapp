@@ -1,0 +1,145 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.room-detail.data-v-55ccfdfb {
+  position: relative;
+  padding-bottom: 160rpx;
+}
+.room-detail .collect.data-v-55ccfdfb {
+  width: 60rpx;
+  height: 60rpx;
+  position: fixed;
+  right: 6rpx;
+  top: 100rpx;
+  z-index: 10;
+  cursor: pointer;
+}
+.room-detail .swiper.data-v-55ccfdfb {
+  height: 500rpx;
+}
+.room-detail .swiper .image.data-v-55ccfdfb {
+  width: 100%;
+  height: 600rpx;
+}
+.room-detail .content.data-v-55ccfdfb {
+  margin: 0 50rpx;
+}
+.room-detail .content .title.data-v-55ccfdfb {
+  margin-top: 50rpx;
+  text-align: center;
+}
+.room-detail .content .title .location.data-v-55ccfdfb {
+  font-size: 48rpx;
+  font-weight: 500;
+}
+.room-detail .content .title .desc.data-v-55ccfdfb {
+  margin-top: 10rpx;
+}
+.room-detail .content .score-bar.data-v-55ccfdfb {
+  margin-top: 40rpx;
+}
+.room-detail .content .host.data-v-55ccfdfb {
+  display: flex;
+  margin-top: 40rpx;
+  align-items: center;
+}
+.room-detail .content .host .host-image.data-v-55ccfdfb {
+  border: 1rpx solid rgba(0, 0, 0, 0.6);
+  width: 90rpx;
+  height: 90rpx;
+  border-radius: 100%;
+}
+.room-detail .content .host .host-message.data-v-55ccfdfb {
+  margin-left: 30rpx;
+}
+.room-detail .content .host .host-message .host-name.data-v-55ccfdfb {
+  font-size: 36rpx;
+  font-weight: 600;
+}
+.room-detail .content .host .host-message .host-text.data-v-55ccfdfb {
+  font-size: 12rpx;
+  color: #8c8c8c;
+}
+.room-detail .content .date-pick.data-v-55ccfdfb {
+  margin-top: 80rpx;
+}
+.room-detail .content .date-pick .date-title.data-v-55ccfdfb {
+  font-size: 48rpx;
+  font-weight: 600;
+}
+.room-detail .content .date-pick .date-desc.data-v-55ccfdfb {
+  font-size: 32rpx;
+  color: #8c8c8c;
+}
+.room-detail .content .calendar.data-v-55ccfdfb {
+  margin-top: 40rpx;
+}
+.room-detail .content .check-in.data-v-55ccfdfb {
+  margin-top: 80rpx;
+}
+.room-detail .content .check-in .block.data-v-55ccfdfb {
+  padding: 40rpx;
+  border-top: 1rpx solid rgba(0, 0, 0, 0.4);
+}
+.room-detail .content .check-in .block .header.data-v-55ccfdfb {
+  font-size: 48rpx;
+  font-weight: 600;
+}
+.room-detail .content .check-in .block .instructions.data-v-55ccfdfb {
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  color: #8c8c8c;
+}
+.room-detail .content .check-in .block .instructions .in-item.data-v-55ccfdfb {
+  margin-top: 10rpx;
+}
+.room-detail .bottom-block.data-v-55ccfdfb {
+  padding: 40rpx;
+  background-color: #dddddd;
+}
+.room-detail .bottom-block .bk.data-v-55ccfdfb {
+  padding: 40rpx;
+  border-bottom: 1rpx solid rgba(0, 0, 0, 0.3);
+  font-size: 24rpx;
+  font-weight: 400;
+}
+.room-detail .bottom-block .bk view.data-v-55ccfdfb {
+  margin-top: 20rpx;
+  cursor: pointer;
+}
+.room-detail .bottom-block .bk view.data-v-55ccfdfb:hover {
+  color: #a1a1a1;
+}
+.room-detail .schedule-bar.data-v-55ccfdfb {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 160rpx;
+  box-sizing: border-box;
+  padding: 40rpx;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff;
+}
+.room-detail .schedule-bar .order-btn.data-v-55ccfdfb {
+  background-color: #da0b64;
+  color: white;
+  width: 200rpx;
+  height: 80rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.room-detail .schedule-bar .order-btn.data-v-55ccfdfb:active {
+  box-shadow: 0 0 1rpx 4rpx rgba(0, 0, 0, 0.1);
+}

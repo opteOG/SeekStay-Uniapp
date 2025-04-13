@@ -1,0 +1,1 @@
+{"version":3,"file":"formatDate.js","sources":["utils/formatDate.js"],"sourcesContent":["export function formatDate(date) {\r\n\tif(!date) return null\r\n\treturn `${date?.getFullYear()}年${date?.getMonth() + 1}月${date?.getDate()}日`\r\n}"],"names":[],"mappings":";AAAO,SAAS,WAAW,MAAM;AAChC,MAAG,CAAC;AAAM,WAAO;AACjB,SAAO,GAAG,6BAAM,aAAa,KAAI,6BAAM,cAAa,CAAC,IAAI,6BAAM,SAAS;AACzE;;"}

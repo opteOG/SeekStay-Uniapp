@@ -1,0 +1,151 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/history/history",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/trip/trip",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/profile/profile",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationStyle": "custom"
+	},
+	"tabBar": {
+		"color": "#2c2c2c",
+		"selectedColor": "#c5b6a0",
+		"backgroundColor": "#F9FAFB",
+		"iconWidth": "50rpx",
+		"height": "100rpx",
+		"fontSize": "26rpx",
+		"list": [{
+				"text": "探索",
+				"pagePath": "pages/search/search",
+				"iconPath": "/static/img/search.png",
+				"selectedIconPath": "/static/img/searchSelected.png"
+			},
+			{
+				"text": "心愿单",
+				"pagePath": "pages/history/history",
+				"iconPath": "/static/img/history.png",
+				"selectedIconPath": "/static/img/historySelected.png"
+			},
+			{
+				"text": "行程",
+				"pagePath": "pages/trip/trip",
+				"iconPath": "/static/img/trip.png",
+				"selectedIconPath": "/static/img/tripSelected.png"
+			},
+			{
+				"text": "个人信息",
+				"pagePath": "pages/profile/profile",
+				"iconPath": "/static/img/profile.png",
+				"selectedIconPath": "/static/img/profileSelected.png"
+			}
+		]
+	},
+	"uniIdRouter": {},
+	"subPackages": [{
+			"root": "subPackages/order",
+			"pages": [{
+					"path": "apply-order/apply-order",
+					"style": {
+						"navigationBarTitleText": "",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "confirm-pay/confirm-pay",
+					"style": {
+						"navigationBarTitleText": "",
+						"enablePullDownRefresh": false,
+						"disableScroll": true
+					}
+				},
+				{
+					"path": "room-detail/room-detail",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				}
+			]
+		},
+		{
+			"root": "subPackages/person",
+			"pages": [{
+					"path": "crop-image/crop-image",
+					"style": {
+						"navigationBarTitleText": "",
+						"enablePullDownRefresh": false,
+						"disableScroll": true
+					}
+				},
+				{
+					"path": "edit-user-message/edit-user-message",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				}
+			]
+		},
+		{
+			"root": "subPackages/search",
+			"pages": [{
+				"path": "search-answer/search-answer",
+				"style": {
+					"navigationBarTitleText": ""
+				}
+
+			}]
+		},
+		{
+			"root": "subPackages/user",
+			"pages": [{
+					"path": "login/login",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				},
+				{
+					"path": "phone-register/phone-register",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				},
+				{
+					"path": "phone-code/phone-code",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				},
+				{
+					"path": "set-user/set-user",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				}
+			]
+		}
+	]
+}

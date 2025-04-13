@@ -1,0 +1,75 @@
+{
+  "pages": [
+    "pages/search/search",
+    "pages/history/history",
+    "pages/trip/trip",
+    "pages/profile/profile"
+  ],
+  "subPackages": [
+    {
+      "root": "subPackages/order",
+      "pages": [
+        "apply-order/apply-order",
+        "confirm-pay/confirm-pay",
+        "room-detail/room-detail"
+      ]
+    },
+    {
+      "root": "subPackages/person",
+      "pages": [
+        "crop-image/crop-image",
+        "edit-user-message/edit-user-message"
+      ]
+    },
+    {
+      "root": "subPackages/search",
+      "pages": [
+        "search-answer/search-answer"
+      ]
+    },
+    {
+      "root": "subPackages/user",
+      "pages": [
+        "login/login",
+        "phone-register/phone-register",
+        "phone-code/phone-code",
+        "set-user/set-user"
+      ]
+    }
+  ],
+  "window": {
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#2c2c2c",
+    "selectedColor": "#c5b6a0",
+    "backgroundColor": "#F9FAFB",
+    "list": [
+      {
+        "text": "探索",
+        "pagePath": "pages/search/search",
+        "iconPath": "/static/img/search.png",
+        "selectedIconPath": "/static/img/searchSelected.png"
+      },
+      {
+        "text": "心愿单",
+        "pagePath": "pages/history/history",
+        "iconPath": "/static/img/history.png",
+        "selectedIconPath": "/static/img/historySelected.png"
+      },
+      {
+        "text": "行程",
+        "pagePath": "pages/trip/trip",
+        "iconPath": "/static/img/trip.png",
+        "selectedIconPath": "/static/img/tripSelected.png"
+      },
+      {
+        "text": "个人信息",
+        "pagePath": "pages/profile/profile",
+        "iconPath": "/static/img/profile.png",
+        "selectedIconPath": "/static/img/profileSelected.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

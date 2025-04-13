@@ -1,0 +1,61 @@
+
+/* 行为相关颜色 */
+$uni-color-primary: #c5b6a0; // 主色调，清新的蓝色， 背景颜色
+$uni-color-success: #10B981; // 成功状态，鲜明的绿色
+$uni-color-warning: #F59E0B; // 警告状态，柔和的橙色
+$uni-color-error: #ada288; // 错误状态，鲜艳的红色
+
+/* 文字基本颜色 */
+$uni-text-color: #1F2937; // 基本文字颜色，深灰色
+$uni-text-color-inverse: #FFFFFF; // 反色，白色
+$uni-text-color-grey: #625b50; // 标题文字灰色
+$uni-text-color-placeholder: #9CA3AF; // 占位符灰色
+$uni-text-color-disable: #D1D5DB; // 禁用文字颜色
+
+/* 背景颜色 */
+$uni-bg-color: #F9FAFB; // 主背景色，柔和的白灰色
+$uni-bg-color-grey: #E5E7EB; // 灰色背景，浅灰色
+$uni-bg-color-hover: #F3F4F6; // 点击状态，稍深的灰色
+$uni-bg-color-mask: rgba(0, 0, 0, 0.5); // 遮罩颜色
+
+/* 边框颜色 */
+$uni-border-color: #E5E7EB; // 边框颜色，浅灰色
+
+
+
+/* 文字尺寸 */
+$uni-font-size-sm: 13px;
+$uni-font-size-base: 15px;
+$uni-font-size-lg: 18px;
+
+/* 图片尺寸 */
+$uni-img-size-sm: 24px;
+$uni-img-size-base: 32px;
+$uni-img-size-lg: 48px;
+
+/* Border Radius */
+$uni-border-radius-sm: 3px;
+$uni-border-radius-base: 6px;
+$uni-border-radius-lg: 10px;
+$uni-border-radius-circle: 50%;
+
+/* 水平间距 */
+$uni-spacing-row-sm: 6px;
+$uni-spacing-row-base: 12px;
+$uni-spacing-row-lg: 18px;
+
+/* 垂直间距 */
+$uni-spacing-col-sm: 6px;
+$uni-spacing-col-base: 12px;
+$uni-spacing-col-lg: 18px;
+
+/* 透明度 */
+$uni-opacity-disabled: 0.4; // 组件禁用态的透明度
+
+/* 文章场景相关 */
+$uni-color-title: #1E40AF; // 文章标题颜色，深蓝色
+$uni-font-size-title: 22px;
+$uni-color-subtitle: #374151; // 二级标题颜色，灰黑色
+$uni-font-size-subtitle: 18px;
+$uni-color-paragraph: #4B5563; // 文章段落颜色，中灰色
+$uni-font-size-paragraph: 16px;

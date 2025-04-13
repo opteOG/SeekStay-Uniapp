@@ -1,0 +1,22 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.list-wrap.data-v-ef17f403 {
+  position: relative;
+}
+.list-wrap .virtual-list.data-v-ef17f403 {
+  width: 100%;
+  position: relative;
+}
+.list-wrap .virtual-list .virtual-list-item.data-v-ef17f403 {
+  position: absolute;
+  width: 100%;
+}

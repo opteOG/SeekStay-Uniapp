@@ -1,0 +1,68 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.history.data-v-b2d018fa {
+  padding: 40rpx;
+}
+.history .header.data-v-b2d018fa {
+  display: flex;
+  margin-bottom: 80rpx;
+  justify-content: space-between;
+}
+.history .header .title.data-v-b2d018fa {
+  font-size: 64rpx;
+  font-weight: 400;
+}
+.history .header .edit.data-v-b2d018fa {
+  align-self: flex-end;
+  border-bottom: 1rpx solid black;
+  cursor: pointer;
+}
+.history .header .edit.data-v-b2d018fa:hover {
+  color: #636363;
+}
+.history .collect-list.data-v-b2d018fa {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 10rpx;
+  row-gap: 20rpx;
+  justify-content: center;
+}
+.history .collect-list .room-content.data-v-b2d018fa {
+  cursor: pointer;
+  position: relative;
+  transition: all 1s ease-out;
+}
+.history .collect-list .room-content .delete.data-v-b2d018fa {
+  width: 50rpx;
+  height: 50rpx;
+  position: absolute;
+  top: 10rpx;
+  left: 10rpx;
+  z-index: 1;
+}
+.history .collect-list .room-content .room-cover.data-v-b2d018fa {
+  width: 40vw;
+  height: 40vw;
+  border-radius: 20rpx;
+}
+.history .collect-list .room-content .room-title.data-v-b2d018fa {
+  font-size: 32rpx;
+}
+.history .collect-list .room-content .collect-time.data-v-b2d018fa {
+  font-size: 12rpx;
+  color: #989898;
+}
+.history .bottom.data-v-b2d018fa {
+  margin-top: 40rpx;
+  text-align: center;
+  color: #636363;
+}

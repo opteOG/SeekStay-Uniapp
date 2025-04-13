@@ -1,0 +1,1 @@
+import{L as r,A as e,B as s}from"./index-CXRbaKsi.js";function o(o,i=!1){if(i){e("user_token")?r({url:o}):(s({title:"请登录后再操作",icon:"error"}),r({url:"/subPackages/user/login/login"}))}else r({url:o})}export{o as t};

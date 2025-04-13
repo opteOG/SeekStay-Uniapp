@@ -1,0 +1,47 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.trip-item .header.data-v-1b900612 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.trip-item .time.data-v-1b900612 {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10rpx;
+  margin-top: 40rpx;
+  font-size: 40rpx;
+  font-weight: 600;
+}
+.trip-item .last-day.data-v-1b900612 {
+  text-align: center;
+  font-size: 36rpx;
+  font-weight: 540;
+  margin-top: 20rpx;
+}
+.trip-item .price.data-v-1b900612 {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 40rpx;
+}
+.trip-item .cancel.data-v-1b900612 {
+  width: 30%;
+}
+.trip-item .cancel .cancel-btn.data-v-1b900612 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60rpx;
+  background-color: #da0b64;
+  color: #ffffff;
+  font-size: 24rpx;
+}

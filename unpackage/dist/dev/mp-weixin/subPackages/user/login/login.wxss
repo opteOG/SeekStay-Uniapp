@@ -1,0 +1,78 @@
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.login.data-v-f01d4a9f {
+  background-color: #c4b8a1;
+}
+.login .btn.data-v-f01d4a9f {
+  height: 80rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login .logo.data-v-f01d4a9f {
+  padding: 40rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login .logo .img.data-v-f01d4a9f {
+  width: 300rpx;
+  height: 300rpx;
+}
+.login .logo .title.data-v-f01d4a9f {
+  color: #2d271b;
+  font-weight: 700;
+  font-size: 48rpx;
+  font-family: "宋体";
+}
+.login .register.data-v-f01d4a9f {
+  margin: 280rpx 50rpx 0;
+}
+.login .login-other.data-v-f01d4a9f {
+  margin-top: 50rpx;
+}
+.login .login-other .other-text.data-v-f01d4a9f {
+  display: flex;
+  justify-content: center;
+  padding: 50rpx;
+  color: #fff;
+}
+.login .login-other .other-text.data-v-f01d4a9f::after {
+  flex: 1;
+  content: "";
+  height: 2rpx;
+  margin-top: 20rpx;
+  margin-left: 10rpx;
+  background-color: #515151;
+}
+.login .login-other .other-text.data-v-f01d4a9f::before {
+  flex: 1;
+  content: "";
+  height: 2rpx;
+  margin-top: 20rpx;
+  margin-right: 10rpx;
+  background-color: #515151;
+}
+.login .go-login.data-v-f01d4a9f {
+  margin-top: 80rpx;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login .form-data.data-v-f01d4a9f {
+  margin: 150rpx 50rpx;
+}
+.login .form-data .foget-password.data-v-f01d4a9f:hover {
+  color: #918877;
+}
